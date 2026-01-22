@@ -1,0 +1,3 @@
+Nombre: Diego Javier De Avila Alvarez 
+No. Contro: 230120116
+Lenguaje de programación: C++/python
